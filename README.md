@@ -1,4 +1,4 @@
 # hello-world
 das ist das erste github projekt
 Hallo ich bin im projekt.
-kljhjklh
+Local geähnderter Text. Der vorherige Text auf dieser Zeile wurde gelöscht.
